@@ -1,0 +1,5 @@
+.metadata/
+.recommenders/
+.sonar/
+RemoteSystemsTempFiles/
+order-processing/target/
